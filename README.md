@@ -1,1 +1,2 @@
 # SDEV-245-M01-RBAC-and-Authentication-Mini-App
+The code created clearly defines the unique permissions a person can fulfill based on their role of being an admin or user, demonstrating the RBAC access control model. The users confidentiality is protected by not allowing unauthorized users access to permissions, and they will auomatically be redirected to a message letting them know their access is denied. The code also gives an example of availability by allowing the admin or user utilize the data given for admin or user depending on their login information. 
